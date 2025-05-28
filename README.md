@@ -1,6 +1,9 @@
 ﻿# Space-Game
 Purpose is to learn C# and explore game development with an engine
 
+## Demo
+![game](demo.gif)
+
 ## Goals & Features
 
 * Detect collisions, receive user input, and create player movements
