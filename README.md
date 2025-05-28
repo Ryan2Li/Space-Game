@@ -1,4 +1,3 @@
-
 ﻿# Space-Game
 Purpose is to learn C# and explore game development with an engine
 
