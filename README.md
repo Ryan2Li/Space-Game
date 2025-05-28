@@ -1,2 +1,2 @@
 ﻿# Space-Invader-Type-Game
-Sprites folder too large.
+Some files were excluded due to their large sizes. For example, sprites.
